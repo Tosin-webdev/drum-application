@@ -9,6 +9,8 @@ body {
   margin: 0;
   padding: 0;
 }
+
+/* keys section */
 .keys {
   display: flex;
   flex: 1;
