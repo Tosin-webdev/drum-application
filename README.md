@@ -1,2 +1,2 @@
 # drum-application
-A fun website that you can test your drumming ability ):
+A fun website where that allows you test your drumming ability ):
